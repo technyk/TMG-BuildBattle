@@ -1,0 +1,11 @@
+timelimit: 30
+playerlimit: 4
+themes:
+  - "Auto"
+  - "Chata"
+  - "Silvestr"
+lobby-spawn: "0/0/0/notset"
+plot-m1: "0/0/0/notset"
+plot-m2: "0/0/0/notset"
+plot-b1: "0/0/0/notset"
+plot-b2: "0/0/0/notset"
