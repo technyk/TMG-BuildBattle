@@ -1,6 +1,6 @@
 name: TMG-BuildBattle
 version: '${project.version}'
 main: me.technyk.tmgbuildbattle.TMG_BuildBattle
-api-version: '1.20'
+api-version: '1.16'
 authors: [technyk]
 website: https://github.com/technyk
